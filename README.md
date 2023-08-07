@@ -1,2 +1,7 @@
-# ODE_SOLUTION_fis2
-Programa criado para a Disciplina de Física 2 para calcular e plotar a solução de uma Equação Diferencial de Segunda Ordem onde a saída é a Tensão Vc(t) em Volts em função do tempo em segundos
+# 2nd Order ODE 
+Program do analise the tension (volts) per time (second) of a RLC circuit
+### Tools used:
+* Google Colab
+* MatPlotLib
+* Scipy.Integrate
+* Numpy
